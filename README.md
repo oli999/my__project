@@ -7,3 +7,4 @@ const a = 10;
 ## 할일 목록
 - git 공부하기
 - network 공부하기
+- ansible 공부하기
